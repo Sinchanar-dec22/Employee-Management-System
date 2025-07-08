@@ -24,18 +24,20 @@ A desktop-based Employee Management System developed using **Java Swing** for th
 
 ## 📁 Project Structure
 EmployeeManagementSystem/
+EmployeeManagementSystem/
+<pre>
 ├── src/
-│ ├── Main_class.java
-│ ├── Login.java
-| ├── conn.java
-│ ├── RemoveEmployee.java
-│ ├── AddEmployee.java
-│ ├── View_Employee.java
-│ ├── UpdateEmployee.java
-│ └── Splash.java
-
+│   ├── Main_class.java
+│   ├── Login.java
+│   ├── conn.java
+│   ├── ResultSet2xml.java
+│   ├── AddEmployee.java
+│   ├── View_Employee.java
+│   ├── UpdateEmployee.java
+│   └── Splash.java
 ├── lib/
-│ └── mysql-connector-java-x.x.xx.jar
-  └── ResultSet2xml.jar
-  └── jcalendar-1.4.jar
-└── README.md
+│   ├── mysql-connector-java-x.x.xx.jar
+│   ├── ResultSet2xml.jar
+│   └── jcalendar-1.4.jar
+├── README.md
+</pre>
